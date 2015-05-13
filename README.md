@@ -1,6 +1,7 @@
-# talks
-Code resources from Medellin.rb meetup talks
+# Memories
+Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup talks
 
+## Talks
 
 | Talks                    | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
@@ -16,6 +17,8 @@ Code resources from Medellin.rb meetup talks
 | ActiveRecord Internals   |                                  | https://goo.gl/nC1swb | https://goo.gl/bVQ251 |
 | Microservices            |                                  |                       | https://goo.gl/8dqgBc |
 | Rails meets NoSQL        |                                  |                       |                       |
+
+## Workshops
 
 | Workshop                 | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
