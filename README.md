@@ -5,7 +5,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 
 | Talks                    | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
-| Ruby Fundamentals        |                                  |                       |                       |
+| Ruby Fundamentals        |                                  | [Basics](https://gist.github.com/orendon/15930c5c80c4f39a31f3) and [Procs and Lambdas](https://gist.github.com/orendon/15b824349975f1b1dafc)     |                       |
 | Rails Introduction       |                                  |                       |                       |
 | Publishing Gems          |                                  |                       |                       |
 | A better Programmer      |                                  |                       |                       |
