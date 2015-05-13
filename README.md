@@ -12,7 +12,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 | TDD with Ruby            |                                  | https://goo.gl/TyEuc5 |                       |
 | Sinatra                  |                                  | https://goo.gl/7P1QFF |                       |
 | Linux <3 Capistrano      |                                  | https://goo.gl/vXPA4b |                       |
-| Refactor Patterns        |                                  |                       |                       |
+| Refactor Patterns        |                                  |                       | http://goo.gl/98QvUo  |
 | Ruby DSL's               |                                  | https://goo.gl/gBHKVG | https://goo.gl/xGxLRZ |
 | ActiveRecord Internals   |                                  | https://goo.gl/nC1swb | https://goo.gl/bVQ251 |
 | Microservices            |                                  |                       | https://goo.gl/8dqgBc |
