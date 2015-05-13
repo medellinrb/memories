@@ -16,7 +16,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 | Ruby DSL's               |                                  | https://goo.gl/gBHKVG | https://goo.gl/xGxLRZ |
 | ActiveRecord Internals   | EmpanadaRecord                   | https://goo.gl/nC1swb | https://goo.gl/bVQ251 |
 | Microservices            |                                  |                       | https://goo.gl/8dqgBc |
-| Rails meets NoSQL        |                                  |                       |                       |
+| Rails meets NoSQL        | Rails with MongoDB               | https://goo.gl/K9vuDp | http://goo.gl/qhi1A5  |
 
 ## Workshops
 
