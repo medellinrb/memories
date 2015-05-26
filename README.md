@@ -7,7 +7,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 |--------------------------|----------------------------------|-----------------------|-----------------------|
 | Ruby Fundamentals        |                                  | [Basics](https://gist.github.com/orendon/15930c5c80c4f39a31f3) and [Procs/Lambdas](https://gist.github.com/orendon/15b824349975f1b1dafc)                        |                       |
 | Rails Introduction       |                                  |                       |                       |
-| Publishing Gems          | Meetup Winner                    | https://goo.gl/VPl0tj |                       |
+| Publishing Gems          | Meetup Winner                    | https://goo.gl/VPl0tj | https://goo.gl/y8xHEL |
 | A better Programmer      | Como ser un mejor programador    |                       | http://goo.gl/iXrNmA  |
 | TDD with Ruby            |                                  | https://goo.gl/TyEuc5 |                       |
 | Sinatra                  |                                  | https://goo.gl/7P1QFF |                       |
