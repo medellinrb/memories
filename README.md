@@ -18,6 +18,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 | ActiveRecord Internals   | EmpanadaRecord                   | https://goo.gl/nC1swb | https://goo.gl/bVQ251 |
 | Microservices            |                                  |                       | https://goo.gl/8dqgBc |
 | Rails meets NoSQL        | Rails with MongoDB               | https://goo.gl/K9vuDp | http://goo.gl/qhi1A5  |
+| Docker On Rails          | Setup a rails environment in docker containers | https://goo.gl/rzcGyU  https://goo.gl/4UjANf | https://goo.gl/acP81B |
 
 ## Workshops
 
