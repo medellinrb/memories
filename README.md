@@ -12,7 +12,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 | ActiveRecord Internals   | EmpanadaRecord                   | https://goo.gl/nC1swb | https://goo.gl/bVQ251 |
 | Ruby DSL's               |                                  | https://goo.gl/gBHKVG | https://goo.gl/xGxLRZ |
 | Refactor Patterns        |                                  |                       | http://goo.gl/98QvUo  |
-| Linux <3 Capistrano      |                                  | https://goo.gl/vXPA4b |                       |
+| Linux <3 Capistrano      |                                  | https://goo.gl/vXPA4b | https://goo.gl/LPPZ2e                     |
 | Sinatra                  |                                  | https://goo.gl/7P1QFF |                       |
 | TDD Kata                 |                                  | https://goo.gl/TyEuc5 |                       |
 | A better Programmer      | Como ser un mejor programador    |                       | http://goo.gl/iXrNmA  |
