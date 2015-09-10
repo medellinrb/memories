@@ -5,6 +5,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 
 | Talks                    | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
+| Functional Programming   | for Rubyst's                     | https://goo.gl/Q0tpaj |                       |
 | Web APIs                 | Create an authenticated web API from scratch | https://goo.gl/Ru32uC | https://goo.gl/vjyNtr |
 | Testing Like Gods        | Intro to TDD & tools for testing | https://goo.gl/XJJb5i | https://goo.gl/lUlYgC |
 | jRuby                    |  JVM <3 Ruby                     |                       |                       |
