@@ -6,6 +6,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 | Talks                    | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
 | Refactoring a Rails API  | Lessons learned refactoring a rails api         |        | https://goo.gl/lI2Hc1 |
+| Metaprogramming in Ruby  | Ruby Object Model and introduction to metaprogramming |  | http://goo.gl/SMu1u4  |
 | Functional Programming   | Fp for Rubyst's                  | https://goo.gl/Q0tpaj | https://goo.gl/trOylb |
 | Web APIs                 | Create an authenticated web API from scratch | https://goo.gl/Ru32uC | https://goo.gl/vjyNtr |
 | Testing Like Gods        | Intro to TDD & tools for testing | https://goo.gl/XJJb5i | https://goo.gl/lUlYgC |
