@@ -5,6 +5,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 
 | Talks                    | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
+| Advanced ActiveRecord | Learn some of the advanced features of ActiveRecord |  https://goo.gl/7cXFAV | http://goo.gl/n89caY |
 | Realtime Rails y Node.js | Integrate socket.io with redis & Rails |  https://goo.gl/1kjFIJ | https://goo.gl/sZBJp9 |
 | Refactoring a Rails API  | Lessons learned refactoring a rails api         |        | https://goo.gl/lI2Hc1 |
 | Metaprogramming in Ruby  | Ruby Object Model and introduction to metaprogramming |  | http://goo.gl/SMu1u4  |
