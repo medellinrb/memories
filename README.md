@@ -5,6 +5,7 @@ Code and resources from [Medellin.rb](http://www.meetup.com/medellin-rb/) meetup
 
 | Talks                    | Description                      | Code                  | Slides                |
 |--------------------------|----------------------------------|-----------------------|-----------------------|
+| Clean Up Your Views      | Using Decorators for rails views | https://goo.gl/nrWkUu | https://goo.gl/Vzvms0 |
 | Construyendo API's       | Video: https://www.periscope.tv/w/1OyKAbARRnWGb                  |  | https://goo.gl/jQLmzI  |
 | Advanced ActiveRecord | Learn some of the advanced features of ActiveRecord |  https://goo.gl/7cXFAV | http://goo.gl/n89caY |
 | Realtime Rails y Node.js | Integrate socket.io with redis & Rails |  https://goo.gl/1kjFIJ | https://goo.gl/sZBJp9 |
